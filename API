@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer nfp_Sz1hVw26r2cCvZmqNUV77R4zKiWMLjKE75e4 https://api.netlify.com/api/v1/sites >
